@@ -8,6 +8,9 @@
 # Note:
 # - Ensure that the script has permission to access the clipboard.
 # - The script uses the `clip` command to copy the secret to the clipboard, which is available on Windows.
+#
+# All credits goes to the original author of this script.
+# Source: https://github.com/YxxgSxxl/batchcollection
 @echo off
 setlocal EnableDelayedExpansion
 
